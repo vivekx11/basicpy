@@ -1,4 +1,4 @@
-# Dictionary Operations
+# Dictionary 
 
 # Creating dictionaries
 dict1 = {"name": "John", "age": 25, "city": "New York"}
