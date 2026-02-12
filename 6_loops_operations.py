@@ -1,4 +1,4 @@
-# Loop Operations
+# Loop 
 
 # While loop
 print("=== While Loop ===")
