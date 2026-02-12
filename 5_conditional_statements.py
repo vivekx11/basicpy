@@ -1,4 +1,4 @@
-# Conditional Statements
+# Conditional 
 
 # Basic if statement
 age = 25
