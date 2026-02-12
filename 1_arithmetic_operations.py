@@ -1,4 +1,4 @@
-# Arithmetic Operations
+
 
 # Basic arithmetic operations
 a = 10
